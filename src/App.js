@@ -8,28 +8,28 @@ function App() {
   const Dummy= [
     {
       id : 'e1',
-      title: "title 1", 
+      title: "Sample Expense 1", 
       amount:200,
       date:new Date(Date.UTC(2021, 11, 20, 3, 0, 0))
 
     },
     {
       id : 'e2',
-      title: "title 2",
+      title: "Sample Expense 2",
       amount:300,
       date:new Date(Date.UTC(2022, 11, 20, 3, 0, 0))
     },
     {
       id : 'e3',
-      title: "title 3",
-      amount:200,
+      title: "Sample Expense 3",
+      amount:340,
       date:new Date(Date.UTC(2020, 11, 20, 3, 0, 0))
 
     },
     {
       id : 'e4',
-      title: "title 4",
-      amount:40000,
+      title: "Sample Expense 4",
+      amount:400,
       date:new Date(Date.UTC(2020, 7, 31, 4, 0, 0))
     }
   ]
